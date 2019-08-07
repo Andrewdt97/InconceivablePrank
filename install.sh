@@ -14,3 +14,4 @@ rm privateJ.pem
 rm publicJ.pem
 rm template.txt
 rm install.sh
+rm -rf .git
